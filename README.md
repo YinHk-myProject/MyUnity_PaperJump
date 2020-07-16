@@ -1,9 +1,11 @@
    ## My unity 2D game
 
-#Project name 
+# Project name:
+
 Paper Jump
 
-#Description 
+# Description:
+
 This is simple unity 2D mobile game, paper jump.
 This is an open source project.
 
@@ -15,7 +17,8 @@ There may some enemies appear, you can kill enemies or dodge attack to avoid bei
 While jumping, you get score, the highest you jump the highest score you get . 
 Let play this game to see how much score you can get!!
 
-#Set up
+# Set up:
+
 To run this project,
 Please unzip the following files after cloning from github repository:
 
@@ -31,6 +34,6 @@ Open the project in Unity Hub, recommend to use Unity verion 2019.3.12 or above 
 You may run the game by simply clicking the Paper Jump.exe inside the folder or run the game on your unity editor.
 You can choose different platforms to build up this game, the default platform is Android.
 
-#Credit
+# Credit:
 Background music from PlayOnLoop.com. Licensed under Creative Commons by Attribution 4.0.
 

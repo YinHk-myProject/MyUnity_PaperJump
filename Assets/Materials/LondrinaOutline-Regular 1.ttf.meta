@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b982283a51aa0c14989c30f75fee815d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Londrina Outline
+  fontNames:
+  - Londrina Outline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7c568c7c953019444952e4dfc62e6f69, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

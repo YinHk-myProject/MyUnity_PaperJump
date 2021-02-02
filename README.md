@@ -14,8 +14,9 @@ What is about this game?
 This is a jumping game. In this game, you guide a character jumping from one platform to another on the paper. 
 The platforms are pens, pencils or other stationery. 
 There may some enemies appear, you can kill enemies or dodge attack to avoid being hurt. 
-While jumping, you get score, the highest you jump the highest score you get . 
+While jumping, you get score, the highest you jump the highest score you get. 
 Let play this game to see how much score you can get!!
+It is available on Google play: https://play.google.com/store/apps/details?id=com.MiniStudio.PaperJump
 
 ### Set up
 
